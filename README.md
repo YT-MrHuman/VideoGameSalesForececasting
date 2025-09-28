@@ -78,7 +78,7 @@ If you encounter any issues, have questions about the methodology, or wish to di
 
 ### Maintainer
 
-  * **[YT-MrHuman]** (e.g., *jdoe*)
+  * **[YT-MrHuman]** 
 
 ### Contributions
 
